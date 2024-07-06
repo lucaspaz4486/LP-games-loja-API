@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "FPS",
+      "descricao": "A partir de :",
+      "foto": "jogo1.PNG",
+      "preco": 199
+    },
+    {
+      "id": 2,
+      "produto": "Corrida/Simulação",
+      "descricao": "A partir de :",
+      "foto": "jogo2.PNG",
+      "preco": 179
+    },
+    {
+      "id": 3,
+      "produto": "Luta",
+      "descricao": "A partir de :",
+      "foto": "jogo3.PNG",
+      "preco": 149
+    }
+  ]
+}
